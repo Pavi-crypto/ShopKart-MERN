@@ -32,7 +32,7 @@ ShopKart is developed to demonstrate the implementation of an e-commerce website
 - Express.js
 
 **Database**
-- [Enter your database, e.g., MongoDB or MySQL]
+MongoDB
 
 **Tools**
 - Git and GitHub
@@ -58,7 +58,6 @@ ShopKart/
 └── README.md
 ```
 
-*Note: Update this structure to match your actual folders and filenames.*
 
 ## ⚙️ Installation and Setup
 
