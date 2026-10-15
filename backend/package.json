@@ -1,0 +1,20 @@
+{
+  "name": "shopkart-customer-auth",
+  "version": "1.0.0",
+  "description": "ShopKart Customer Authentication Backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js",
+    "test": "node test_lab06.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.1",
+    "razorpay": "^2.9.8"
+  }
+}
