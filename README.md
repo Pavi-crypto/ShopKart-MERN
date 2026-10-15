@@ -149,10 +149,10 @@ Only include variables that your application actually uses. Never commit real cr
 
 ## 👨‍💻 Author
 
-**Name:** [Your Name]
+**Name:** Pavithra
 
-**GitHub:** [Your GitHub Profile URL]
+**GitHub:** https://github.com/Pavi-crypto
 
 ## 📄 License
 
-This project is developed for educational purposes. Add a license if you intend to distribute it under specific terms.
+This project is developed for educational purposes.
