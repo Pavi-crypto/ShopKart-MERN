@@ -72,8 +72,8 @@ Make sure the following are installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ShopKart.git
-cd ShopKart
+git clone https://github.com/pavi-crypto/ShopKart-MERN.git
+cd ShopKart-MERN
 ```
 
 ### 2. Set up the backend
@@ -89,7 +89,9 @@ Example:
 
 ```env
 PORT=5000
-# Add other required variables
+MONGO_URI=<your-mongodb-connection-string>
+JWT_SECRET=<your-jwt-secret>
+
 ```
 
 Start the backend using the appropriate script defined in `backend/package.json`, for example:
