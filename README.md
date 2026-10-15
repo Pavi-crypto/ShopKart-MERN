@@ -9,14 +9,13 @@ ShopKart is developed to demonstrate the implementation of an e-commerce website
 ## ✨ Features
 
 - Browse and view available products
+- Add products to wishlist
 - Add products to the shopping cart
 - View cart items and quantities
 - Update or remove items from the cart
 - Calculate the cart total
 - Synchronize cart data between the frontend and backend
 - Responsive and user-friendly interface
-
-> Edit this list to include only the features implemented in your project.
 
 ## 🛠️ Tech Stack
 
@@ -43,8 +42,6 @@ MongoDB
 
 ```text
 ShopKart/
-├── frontend/
-│   ├── public/
 │   ├── src/
 │   ├── package.json
 │   └── vite.config.js
@@ -112,8 +109,6 @@ npm run dev
 
 Open the local URL displayed by Vite in your terminal, usually `http://localhost:5173`.
 
-> Adjust the commands and configuration according to your actual project setup.
-
 ## 🛒 Application Workflow
 
 1. The user opens the ShopKart application.
@@ -135,8 +130,6 @@ PORT=5000
 DATABASE_URL=your_database_url
 JWT_SECRET=your_secret_key
 ```
-
-Only include variables that your application actually uses. Never commit real credentials or secrets to GitHub.
 
 ## 🚀 Future Improvements
 
